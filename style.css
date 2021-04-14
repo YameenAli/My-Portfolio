@@ -302,7 +302,7 @@ button {
     top: 10%;
   }
   #dcontact{
-  display:hidden;
+  display:none;
   }
 }
 #contact-form label {
