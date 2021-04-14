@@ -301,6 +301,9 @@ button {
   #contact header {
     top: 10%;
   }
+  #dcontact{
+  display:hidden;
+  }
 }
 #contact-form label {
   font-size: 1.4rem;
